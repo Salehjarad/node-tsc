@@ -1,9 +1,7 @@
-## Simple poilrtplate for node and typescript
+## Simple boilerplate for nodejs and typescript
 
----
-
-### Happy coding.
+### Happy coding -> 😇
 
 ```
-  git clone https://github.com/salehjarad/node-tsc.git [Project name]
+  git clone https://github.com/Salehjarad/node-tsc.git[Project name]
 ```
